@@ -76,6 +76,10 @@ Stats are saved to:
 - **Windows**: `%APPDATA%\MorseTrainer\stats.dat`
 - **Linux**: `~/.morse_trainer/stats.dat`
 
+##Built with AI
+
+Claude Opus 4.6
+
 ## License
 
 MIT
