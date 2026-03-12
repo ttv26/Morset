@@ -1,6 +1,8 @@
 # MorseT — Morse Code Trainer
 
 A comprehensive, cross-platform CLI Morse code training application written in C++.
+<img width="1158" height="668" alt="image" src="https://github.com/user-attachments/assets/4fbfd03a-8d9b-4b85-a4da-50274042bca0" />
+
 
 ## Features
 
