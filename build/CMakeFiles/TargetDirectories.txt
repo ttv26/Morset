@@ -1,0 +1,7 @@
+C:/Users/Navadeep/Documents/Tilak/MorseT/build/CMakeFiles/morse_trainer.dir
+C:/Users/Navadeep/Documents/Tilak/MorseT/build/CMakeFiles/edit_cache.dir
+C:/Users/Navadeep/Documents/Tilak/MorseT/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Navadeep/Documents/Tilak/MorseT/build/CMakeFiles/list_install_components.dir
+C:/Users/Navadeep/Documents/Tilak/MorseT/build/CMakeFiles/install.dir
+C:/Users/Navadeep/Documents/Tilak/MorseT/build/CMakeFiles/install/local.dir
+C:/Users/Navadeep/Documents/Tilak/MorseT/build/CMakeFiles/install/strip.dir
